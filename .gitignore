@@ -2,3 +2,5 @@
 pimpl
 .DS_Store
 \build
+asmcpp
+*.o
